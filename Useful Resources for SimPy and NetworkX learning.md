@@ -9,7 +9,9 @@ This document outlines useful resources for learning two important Python librar
 - **Youtube channels:** Ideal if you have multiple dependencies including C libraries (e.g., geopandas, PyPSA). It uses YAML files.
 
 
-- **Study links:** Great for pure Python projects and when you want lightweight environments using a `requirements.txt` file.
+- **Study links:** Great for study the WiKi information of the NetworkX library.
+
+1. [SimPy in 10 Minutes](https://simpy.readthedocs.io/en/latest/simpy_intro/index.html)
 
 ---
 
@@ -23,4 +25,5 @@ This document outlines useful resources for learning two important Python librar
 
 
 - **Study links:** Great for study the WiKi information of the NetworkX library.
-  1. [NetworkX Tutorials](https://networkx.org/documentation/stable/tutorial.html)
+
+1. [NetworkX Tutorials](https://networkx.org/documentation/stable/tutorial.html)
