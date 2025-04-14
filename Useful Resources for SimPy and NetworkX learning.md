@@ -6,7 +6,14 @@ This document outlines useful resources for learning two important Python librar
 
 ## 1. SimPy learning resources
 
-- **Youtube channels:** Ideal if you have multiple dependencies including C libraries (e.g., geopandas, PyPSA). It uses YAML files.
+- **Youtube channels:** Ideal if you already have background about Python programming.
+
+1. [Getting Started Simulating Real-World Processes in Python with SimPy
+](https://www.youtube.com/watch?v=NypbxgytScM)
+
+2. [Simulating Real-Life Processes in Python
+](https://www.youtube.com/watch?v=8SLk_uRRcgc)
+
 
 
 - **Study links:** Great for study the WiKi information of the NetworkX library.
